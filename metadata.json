@@ -1,0 +1,8 @@
+{
+  "name": "AdvogadoIA - Imigração Portugal",
+  "description": "Uma plataforma avançada de IA para advogados portugueses, especializada em Direito de Estrangeiros, defesas de imigração e processos AIMA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
